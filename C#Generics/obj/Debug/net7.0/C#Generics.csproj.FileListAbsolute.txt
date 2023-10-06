@@ -1,0 +1,14 @@
+C:\Users\Farah\OneDrive\Skrivbord\Lexicon-Kursmaterial\E-Learning\004 c-sharp-generics - Thomas Claudius Huber\C#Generics\C#Generics\bin\Debug\net7.0\C#Generics.exe
+C:\Users\Farah\OneDrive\Skrivbord\Lexicon-Kursmaterial\E-Learning\004 c-sharp-generics - Thomas Claudius Huber\C#Generics\C#Generics\bin\Debug\net7.0\C#Generics.deps.json
+C:\Users\Farah\OneDrive\Skrivbord\Lexicon-Kursmaterial\E-Learning\004 c-sharp-generics - Thomas Claudius Huber\C#Generics\C#Generics\bin\Debug\net7.0\C#Generics.runtimeconfig.json
+C:\Users\Farah\OneDrive\Skrivbord\Lexicon-Kursmaterial\E-Learning\004 c-sharp-generics - Thomas Claudius Huber\C#Generics\C#Generics\bin\Debug\net7.0\C#Generics.dll
+C:\Users\Farah\OneDrive\Skrivbord\Lexicon-Kursmaterial\E-Learning\004 c-sharp-generics - Thomas Claudius Huber\C#Generics\C#Generics\bin\Debug\net7.0\C#Generics.pdb
+C:\Users\Farah\OneDrive\Skrivbord\Lexicon-Kursmaterial\E-Learning\004 c-sharp-generics - Thomas Claudius Huber\C#Generics\C#Generics\obj\Debug\net7.0\C#Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farah\OneDrive\Skrivbord\Lexicon-Kursmaterial\E-Learning\004 c-sharp-generics - Thomas Claudius Huber\C#Generics\C#Generics\obj\Debug\net7.0\C#Generics.AssemblyInfoInputs.cache
+C:\Users\Farah\OneDrive\Skrivbord\Lexicon-Kursmaterial\E-Learning\004 c-sharp-generics - Thomas Claudius Huber\C#Generics\C#Generics\obj\Debug\net7.0\C#Generics.AssemblyInfo.cs
+C:\Users\Farah\OneDrive\Skrivbord\Lexicon-Kursmaterial\E-Learning\004 c-sharp-generics - Thomas Claudius Huber\C#Generics\C#Generics\obj\Debug\net7.0\C#Generics.csproj.CoreCompileInputs.cache
+C:\Users\Farah\OneDrive\Skrivbord\Lexicon-Kursmaterial\E-Learning\004 c-sharp-generics - Thomas Claudius Huber\C#Generics\C#Generics\obj\Debug\net7.0\C#Generics.dll
+C:\Users\Farah\OneDrive\Skrivbord\Lexicon-Kursmaterial\E-Learning\004 c-sharp-generics - Thomas Claudius Huber\C#Generics\C#Generics\obj\Debug\net7.0\refint\C#Generics.dll
+C:\Users\Farah\OneDrive\Skrivbord\Lexicon-Kursmaterial\E-Learning\004 c-sharp-generics - Thomas Claudius Huber\C#Generics\C#Generics\obj\Debug\net7.0\C#Generics.pdb
+C:\Users\Farah\OneDrive\Skrivbord\Lexicon-Kursmaterial\E-Learning\004 c-sharp-generics - Thomas Claudius Huber\C#Generics\C#Generics\obj\Debug\net7.0\C#Generics.genruntimeconfig.cache
+C:\Users\Farah\OneDrive\Skrivbord\Lexicon-Kursmaterial\E-Learning\004 c-sharp-generics - Thomas Claudius Huber\C#Generics\C#Generics\obj\Debug\net7.0\ref\C#Generics.dll

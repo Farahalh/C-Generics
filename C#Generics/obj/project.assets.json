@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Farah\\OneDrive\\Skrivbord\\Lexicon-Kursmaterial\\C-Sharp\\Assignments\\C#Generics\\C#Generics\\C#Generics.csproj",
+      "projectUniqueName": "C:\\Users\\Farah\\OneDrive\\Skrivbord\\Lexicon-Kursmaterial\\E-Learning\\004 c-sharp-generics - Thomas Claudius Huber\\C#Generics\\C#Generics\\C#Generics.csproj",
       "projectName": "C#Generics",
-      "projectPath": "C:\\Users\\Farah\\OneDrive\\Skrivbord\\Lexicon-Kursmaterial\\C-Sharp\\Assignments\\C#Generics\\C#Generics\\C#Generics.csproj",
+      "projectPath": "C:\\Users\\Farah\\OneDrive\\Skrivbord\\Lexicon-Kursmaterial\\E-Learning\\004 c-sharp-generics - Thomas Claudius Huber\\C#Generics\\C#Generics\\C#Generics.csproj",
       "packagesPath": "C:\\Users\\Farah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Farah\\OneDrive\\Skrivbord\\Lexicon-Kursmaterial\\C-Sharp\\Assignments\\C#Generics\\C#Generics\\obj\\",
+      "outputPath": "C:\\Users\\Farah\\OneDrive\\Skrivbord\\Lexicon-Kursmaterial\\E-Learning\\004 c-sharp-generics - Thomas Claudius Huber\\C#Generics\\C#Generics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
