@@ -15,12 +15,15 @@
             stack.Push(1.2);
             stack.Push(2.8);
             stack.Push(3.0);
+            stack.Push(true);
+            stack.Push(new object());
+            stack.Push("Farah"); 
 
             double sum = 0.0;
 
             while (stack.Count > 0)
             {
-                double item = stack.Pop();
+                double item = (double)stack.Pop();
                 Console.WriteLine($"Item: {item}");
                 sum += item;
             }
@@ -33,6 +36,11 @@
             var stack = new SimpleStack();
             stack.Push("Wired Brain Coffee");
             stack.Push("Pluralsight");
+
+            while(stack.Count > 0)
+                {
+                Console.WriteLine(stack.Pop());
+            }
         }
     }
 }
