@@ -11,19 +11,16 @@
 
         private static void StackDoubles()
         {
-            var stack = new SimpleStack();
+            var stack = new SimpleStackDouble();
             stack.Push(1.2);
             stack.Push(2.8);
             stack.Push(3.0);
-            stack.Push(true);
-            stack.Push(new object());
-            stack.Push("Farah"); 
 
             double sum = 0.0;
 
             while (stack.Count > 0)
             {
-                double item = (double)stack.Pop();
+                double item = stack.Pop();
                 Console.WriteLine($"Item: {item}");
                 sum += item;
             }
@@ -33,7 +30,7 @@
 
         private static void StackStrings()
         {
-            var stack = new SimpleStack();
+            var stack = new SimpleStackString();
             stack.Push("Wired Brain Coffee");
             stack.Push("Pluralsight");
 
